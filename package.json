@@ -19,6 +19,7 @@
   "homepage": "https://github.com/wysiwygism/wp-kafka#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
+    "celebrate": "^9.0.1",
     "express": "^4.16.4",
     "log4js": "^3.0.6",
     "request-json": "^0.6.4",
